@@ -1,5 +1,5 @@
 # BlackJack-2017
-This is the first project I made completely individually. I started learning programming and Java in Fall of 2017, and I made this project
+This is the first "big" project I made completely individually. I started learning programming and Java in Fall of 2017, and I made this project
 after a few months later.  
 
 ## Overview
