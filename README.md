@@ -10,7 +10,7 @@ The project is a standard Blackjack game.
  * In this version, the Dealer will stand on 17, but the Dealer will **_ALWAYS_** win ties. 
  * A "blackjack" will pay the player 3 to 2.
  * The dealing shoe contains 8 decks of standard playing cards.
- * Player will start at $100 and can choose to bet whichever integer amount he/she pleases. If the user decides to leave, or if
- * the player runs out of money, the game will end.
+ * Player will start at $100 and can choose to bet whichever integer amount he/she pleases. 
+ * If the user decides to leave, or if the player runs out of money, the game will end.
  * GLHF!
 
